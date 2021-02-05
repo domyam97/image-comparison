@@ -8,6 +8,6 @@ https://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python
 https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
 
 ## Required packages:
-opencv-python
-scikit-image
-imutils
+- opencv-python
+- scikit-image
+- imutils
